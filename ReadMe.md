@@ -1,6 +1,6 @@
 # Monorepo Starter (WIP)
 
-[![Airbnb-standard-style](https://img.shields.io/badge/code%20style-airbnb-brightgreen.svg)](https://github.com/airbnb/javascript) [![MIT License](https://img.shields.io/badge/license-mit-brightgreen.svg)](https://github.com/barlowm/mono_repo_template/blob/master/LICENSE)[![Monorepo Maintained With Lerna](https://img.shields.io/badge/maintained%20by-lerna-99424f.svg)](https://lerna.js.org) [![tested with mocha](https://img.shields.io/badge/tested_with-mocha-99424f.svg)](https://mochajs.org) 
+[![Airbnb-standard-style](https://img.shields.io/badge/code%20style-airbnb-brightgreen.svg)](https://github.com/airbnb/javascript) [![MIT License](https://img.shields.io/badge/license-mit-brightgreen.svg)](https://github.com/barlowm/mono_repo_template/blob/master/LICENSE) [![Monorepo Maintained With Lerna](https://img.shields.io/badge/maintained%20by-lerna-99424f.svg)](https://lerna.js.org) [![tested with mocha](https://img.shields.io/badge/tested_with-mocha-99424f.svg)](https://mochajs.org) 
 
 
 ## Description
